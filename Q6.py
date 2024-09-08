@@ -23,6 +23,8 @@ elif month==11:
       print("November has 31 days")
 elif month==12:
       print("December has 30 days")
+else:
+    print("Invalid month number! Please enter a number between 1 and 12.")
     
 
 
